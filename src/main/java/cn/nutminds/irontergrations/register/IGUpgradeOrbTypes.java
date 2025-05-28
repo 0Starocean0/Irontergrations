@@ -3,17 +3,10 @@ package cn.nutminds.irontergrations.register;
 import cn.nutminds.irontergrations.Irontergrations;
 import io.redspace.ironsspellbooks.api.registry.AttributeRegistry;
 import io.redspace.ironsspellbooks.item.armor.UpgradeOrbType;
-import io.redspace.ironsspellbooks.registries.ComponentRegistry;
-import io.redspace.ironsspellbooks.registries.ItemRegistry;
 import io.redspace.ironsspellbooks.registries.UpgradeOrbTypeRegistry;
 import net.minecraft.data.worldgen.BootstrapContext;
 import net.minecraft.resources.ResourceKey;
 import net.minecraft.world.entity.ai.attributes.AttributeModifier;
-import net.minecraft.world.entity.ai.attributes.Attributes;
-import net.minecraft.world.item.ItemStack;
-import net.minecraft.world.item.Items;
-
-import java.util.Optional;
 
 import static cn.nutminds.irontergrations.CompatChecker.*;
 
@@ -44,7 +37,6 @@ public class IGUpgradeOrbTypes extends UpgradeOrbTypeRegistry {
             UPGRADE_ORB_REGISTRY_KEY,
             Irontergrations.id("advanced_nature_power"));
 
-    /*
     public static ResourceKey<UpgradeOrbType> ADVANCED_ABYSSAL_SPELL_POWER;
     public static ResourceKey<UpgradeOrbType> ADVANCED_ELDRITCH_SPELL_POWER;
     public static ResourceKey<UpgradeOrbType> ADVANCED_WIND_SPELL_POWER;
@@ -92,7 +84,6 @@ public class IGUpgradeOrbTypes extends UpgradeOrbTypeRegistry {
             ADVANCED_AQUA_SPELL_POWER = null;
         }
     }
-     */
 
     public static void bootstrap(BootstrapContext<UpgradeOrbType> bootstrap) {
         bootstrap.register(ADVANCED_FIRE_SPELL_POWER,

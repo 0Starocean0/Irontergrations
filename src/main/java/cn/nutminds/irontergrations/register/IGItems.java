@@ -85,7 +85,6 @@ public class IGItems {
                             .rarity(Rarity.UNCOMMON)
                             .component(ComponentRegistry.UPGRADE_ORB_TYPE, IGUpgradeOrbTypes.ADVANCED_NATURE_SPELL_POWER)));
     //Large Orbs for other mods
-    /*
     public static final DeferredHolder<Item, Item> LARGE_ABYSSAL_UPGRADE_ORB;
     public static final DeferredHolder<Item, Item> LARGE_ELDRITCH_UPGRADE_ORB;
     public static final DeferredHolder<Item, Item> LARGE_WIND_UPGRADE_ORB;
@@ -137,7 +136,6 @@ public class IGItems {
         } else {
             LARGE_AQUA_UPGRADE_ORB = null;
         }}
-        */
     //Illager Invasion
     public static final DeferredHolder<Item, Item> HALLOWED_STAFF;
     public static final DeferredHolder<Item, Item> INVOKER_SPELL_BOOK;
