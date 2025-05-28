@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RXR",
+    " O ",
+    "RXR"
+  ],
+  "key": {
+    "R": {
+      "item": "irons_spellbooks:ender_rune"
+    },
+    "X": {
+      "tag": "irontergrations:advanced_ender_upgrade_materials_2"
+    },
+    "O": {
+      "item": "irontergrations:large_upgrade_orb"
+    }
+  },
+  "result": {
+    "id": "irontergrations:large_ender_upgrade_orb",
+    "count": 1
+  }
+}

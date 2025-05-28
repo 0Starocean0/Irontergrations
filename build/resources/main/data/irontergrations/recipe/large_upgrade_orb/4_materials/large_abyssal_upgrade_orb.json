@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "MXM",
+    "XOX",
+    "MXM"
+  ],
+  "key": {
+    "M": {
+      "item": "irons_spellbooks:mithril_ingot"
+    },
+    "X": {
+      "tag": "irontergrations:advanced_abyssal_upgrade_materials_4"
+    },
+    "O": {
+      "item": "cataclysm_spellbooks:abyssal_upgrade_orb"
+    }
+  },
+  "result": {
+    "id": "irontergrations:large_abyssal_upgrade_orb",
+    "count": 1
+  }
+}

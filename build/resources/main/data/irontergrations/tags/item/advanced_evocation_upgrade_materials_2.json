@@ -1,0 +1,9 @@
+{
+  "values": [
+    "minecraft:nether_star",
+    {
+      "id": "bosses_of_mass_destruction:ancient_anima",
+      "required": false
+    }
+  ]
+}

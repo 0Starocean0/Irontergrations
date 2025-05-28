@@ -1,0 +1,20 @@
+{
+  "values": [
+    {
+      "id": "illagerinvasion:hallowed_gem",
+      "required": false
+    },
+    {
+      "id": "vampirism:holy_water_bottle",
+      "required": false
+    },
+    {
+      "id": "aether_treasure_reforging:valkyrum_ingot",
+      "required": false
+    },
+    {
+      "id": "divinerpg:divine_stone",
+      "required": false
+    }
+  ]
+}

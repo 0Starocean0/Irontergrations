@@ -1,0 +1,9 @@
+{
+  "amount": 0.1,
+  "attribute": "traveloptics:aqua_spell_power",
+  "containerItem": {
+    "count": 1,
+    "id": "irontergrations:large_aqua_upgrade_orb"
+  },
+  "operation": "add_multiplied_base"
+}

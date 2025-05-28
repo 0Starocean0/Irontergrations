@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RMR",
+    "MOM",
+    "RMR"
+  ],
+  "key": {
+    "R": {
+      "item": "irons_spellbooks:blank_rune"
+    },
+    "M": {
+      "item": "irons_spellbooks:mithril_ingot"
+    },
+    "O": {
+      "item": "irons_spellbooks:upgrade_orb"
+    }
+  },
+  "result": {
+    "id": "irontergrations:large_upgrade_orb",
+    "count": 1
+  }
+}

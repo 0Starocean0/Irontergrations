@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "R R",
+    "XOX",
+    "R R"
+  ],
+  "key": {
+    "R": {
+      "item": "irons_spellbooks:evocation_rune"
+    },
+    "X": {
+      "tag": "irontergrations:advanced_evocation_upgrade_materials_2"
+    },
+    "O": {
+      "item": "irontergrations:large_upgrade_orb"
+    }
+  },
+  "result": {
+    "id": "irontergrations:large_evocation_upgrade_orb",
+    "count": 1
+  }
+}

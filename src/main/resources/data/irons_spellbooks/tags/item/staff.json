@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "irontergrations:hallowed_staff",
+      "required": false
+    }
+  ]
+}

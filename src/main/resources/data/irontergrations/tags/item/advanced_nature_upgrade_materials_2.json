@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "divinerpg:wildwood_heart",
+      "required": false
+    },
+    {
+      "id": "bosses_of_mass_destruction:void_thorn",
+      "required": false
+    }
+  ]
+}

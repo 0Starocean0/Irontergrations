@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    
+  ],
+  "key": {
+    "R": {
+      "item": "iss_magicfromtheeast:symmetry_rune"
+    },
+    "X": {
+      "tag": "irontergrations:advanced_symmetry_upgrade_materials_2"
+    },
+    "O": {
+      "item": "irontergrations:large_upgrade_orb"
+    }
+  },
+  "result": {
+    "id": "irontergrations:large_symmetry_upgrade_orb",
+    "count": 1
+  }
+}

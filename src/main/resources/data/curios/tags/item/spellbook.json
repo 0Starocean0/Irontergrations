@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "irontergrations:invoker_spell_book",
+      "required": false
+    },
+    {
+      "id": "irontergrations:archivist_spell_book",
+      "required": false
+    }
+  ]
+}

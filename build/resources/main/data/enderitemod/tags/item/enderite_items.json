@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "irontergrations:enderite_mage_helmet",
+    "irontergrations:enderite_mage_chestplate",
+    "irontergrations:enderite_mage_leggings",
+    "irontergrations:enderite_mage_boots",
+    "irontergrations:enderite_mage_elytra"
+  ]
+}

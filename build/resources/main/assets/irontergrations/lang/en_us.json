@@ -1,0 +1,17 @@
+{
+  "itemGroup.irontergrations.irontergrations_tab": "Iron's Spellbooks Integrations",
+
+  "item.irontergrations.large_upgrade_orb": "Large Upgrade Orb",
+  "item.irontergrations.large_fire_upgrade_orb": "Large Fire Upgrade Orb",
+  "item.irontergrations.large_ice_upgrade_orb": "Large Ice Upgrade Orb",
+  "item.irontergrations.large_lightning_upgrade_orb": "Large Lightning Upgrade Orb",
+  "item.irontergrations.large_holy_upgrade_orb": "Large Holy Upgrade Orb",
+  "item.irontergrations.large_ender_upgrade_orb": "Large Ender Upgrade Orb",
+  "item.irontergrations.large_blood_upgrade_orb": "Large Blood Upgrade Orb",
+  "item.irontergrations.large_evocation_upgrade_orb": "Large Evocation Upgrade Orb",
+  "item.irontergrations.large_nature_upgrade_orb": "Large Nature Upgrade Orb",
+
+  "item.irontergrations.hallowed_staff": "Hallowed Staff",
+  "item.irontergrations.invoker_spell_book": "Grimoire of Invocation",
+  "item.irontergrations.archivist_spell_book": "Encyclopedia"
+}

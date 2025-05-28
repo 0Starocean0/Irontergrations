@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "M M",
+    "XOX",
+    "M M"
+  ],
+  "key": {
+    "M": {
+      "item": "irons_spellbooks:mithril_ingot"
+    },
+    "X": {
+      "tag": "irontergrations:advanced_ice_upgrade_materials_2"
+    },
+    "O": {
+      "item": "irons_spellbooks:ice_upgrade_orb"
+    }
+  },
+  "result": {
+    "id": "irontergrations:large_ice_upgrade_orb",
+    "count": 1
+  }
+}

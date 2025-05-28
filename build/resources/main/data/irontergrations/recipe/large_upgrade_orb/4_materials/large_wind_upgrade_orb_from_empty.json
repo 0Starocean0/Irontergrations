@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RXR",
+    "XOX",
+    "RXR"
+  ],
+  "key": {
+    "R": {
+      "item": "aero_additions:wind_rune"
+    },
+    "X": {
+      "tag": "irontergrations:advanced_wind_upgrade_materials_4"
+    },
+    "O": {
+      "item": "irontergrations:large_upgrade_orb"
+    }
+  },
+  "result": {
+    "id": "irontergrations:large_wind_upgrade_orb",
+    "count": 1
+  }
+}

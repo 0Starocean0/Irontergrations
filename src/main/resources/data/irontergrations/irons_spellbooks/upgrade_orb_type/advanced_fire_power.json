@@ -1,0 +1,9 @@
+{
+  "amount": 0.1,
+  "attribute": "irons_spellbooks:fire_spell_power",
+  "containerItem": {
+    "count": 1,
+    "id": "irontergrations:large_fire_upgrade_orb"
+  },
+  "operation": "add_multiplied_base"
+}

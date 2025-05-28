@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    
+  ],
+  "key": {
+    "R": {
+      "item": "traveloptics:aqua_rune"
+    },
+    "X": {
+      "tag": "irontergrations:advanced_aqua_upgrade_materials_2"
+    },
+    "O": {
+      "item": "irontergrations:large_upgrade_orb"
+    }
+  },
+  "result": {
+    "id": "irontergrations:large_aqua_upgrade_orb",
+    "count": 1
+  }
+}

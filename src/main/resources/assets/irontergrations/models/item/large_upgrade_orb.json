@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "irontergrations:item/large_upgrade_orb_base",
+    "layer1": "irontergrations:item/large_upgrade_orb_swirl"
+  }
+}

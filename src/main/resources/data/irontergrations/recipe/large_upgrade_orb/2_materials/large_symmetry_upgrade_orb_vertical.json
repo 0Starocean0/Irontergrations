@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "MXM",
+    " O ",
+    "MXM"
+  ],
+  "key": {
+    "M": {
+      "item": "irons_spellbooks:mithril_ingot"
+    },
+    "X": {
+      "tag": "irontergrations:advanced_symmetry_upgrade_materials_2"
+    },
+    "O": {
+      "item": "iss_magicfromtheeast:symmetry_upgrade_orb"
+    }
+  },
+  "result": {
+    "id": "irontergrations:large_symmetry_upgrade_orb",
+    "count": 1
+  }
+}

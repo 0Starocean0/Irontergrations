@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " PH",
+    " GP",
+    "S  "
+  ],
+  "key": {
+    "H": {
+      "item": "illagerinvasion:hallowed_gem"
+    },
+    "P": {
+      "item": "illagerinvasion:platinum_sheet"
+    },
+    "G": {
+      "tag": "c:ingots/gold"
+    },
+    "S": {
+      "tag": "c:rods/wooden"
+    }
+  },
+  "result": {
+    "id": "irontergrations:hallowed_staff"
+  }
+}
