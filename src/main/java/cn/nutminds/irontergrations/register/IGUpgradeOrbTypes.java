@@ -44,56 +44,6 @@ public class IGUpgradeOrbTypes extends UpgradeOrbTypeRegistry {
             UPGRADE_ORB_REGISTRY_KEY,
             Irontergrations.id("advanced_nature_power"));
 
-    /*
-    public static ResourceKey<UpgradeOrbType> ADVANCED_ABYSSAL_SPELL_POWER;
-    public static ResourceKey<UpgradeOrbType> ADVANCED_ELDRITCH_SPELL_POWER;
-    public static ResourceKey<UpgradeOrbType> ADVANCED_WIND_SPELL_POWER;
-    public static ResourceKey<UpgradeOrbType> ADVANCED_SYMMETRY_SPELL_POWER;
-    public static ResourceKey<UpgradeOrbType> ADVANCED_AQUA_SPELL_POWER;
-    static {
-        if (isCATSLoaded()){
-            ADVANCED_ABYSSAL_SPELL_POWER = ResourceKey.create(
-                    UPGRADE_ORB_REGISTRY_KEY,
-                    Irontergrations.id("advanced_abyssal_power"));
-        }
-        else {
-            ADVANCED_ABYSSAL_SPELL_POWER = null;
-        }
-        if (isCATSLoaded()){
-            ADVANCED_ELDRITCH_SPELL_POWER = ResourceKey.create(
-                    UPGRADE_ORB_REGISTRY_KEY,
-                    Irontergrations.id("advanced_eldritch_power"));
-        }
-        else {
-            ADVANCED_ELDRITCH_SPELL_POWER = null;
-        }
-        if (isCATSLoaded()){
-            ADVANCED_WIND_SPELL_POWER = ResourceKey.create(
-                    UPGRADE_ORB_REGISTRY_KEY,
-                    Irontergrations.id("advanced_wind_power"));
-        }
-        else {
-            ADVANCED_WIND_SPELL_POWER = null;
-        }
-        if (isCATSLoaded()){
-            ADVANCED_SYMMETRY_SPELL_POWER = ResourceKey.create(
-                    UPGRADE_ORB_REGISTRY_KEY,
-                    Irontergrations.id("advanced_symmetry_power"));
-        }
-        else {
-            ADVANCED_SYMMETRY_SPELL_POWER = null;
-        }
-        if (isTOExtrasLoaded()){
-            ADVANCED_AQUA_SPELL_POWER = ResourceKey.create(
-                    UPGRADE_ORB_REGISTRY_KEY,
-                    Irontergrations.id("advanced_aqua_power"));
-        }
-        else {
-            ADVANCED_AQUA_SPELL_POWER = null;
-        }
-    }
-     */
-
     public static void bootstrap(BootstrapContext<UpgradeOrbType> bootstrap) {
         bootstrap.register(ADVANCED_FIRE_SPELL_POWER,
                 new UpgradeOrbType(AttributeRegistry.FIRE_SPELL_POWER,

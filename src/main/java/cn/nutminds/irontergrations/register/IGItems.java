@@ -84,60 +84,7 @@ public class IGItems {
                     ItemPropertiesHelper.material()
                             .rarity(Rarity.UNCOMMON)
                             .component(ComponentRegistry.UPGRADE_ORB_TYPE, IGUpgradeOrbTypes.ADVANCED_NATURE_SPELL_POWER)));
-    //Large Orbs for other mods
-    /*
-    public static final DeferredHolder<Item, Item> LARGE_ABYSSAL_UPGRADE_ORB;
-    public static final DeferredHolder<Item, Item> LARGE_ELDRITCH_UPGRADE_ORB;
-    public static final DeferredHolder<Item, Item> LARGE_WIND_UPGRADE_ORB;
-    public static final DeferredHolder<Item, Item> LARGE_SYMMETRY_UPGRADE_ORB;
-    public static final DeferredHolder<Item, Item> LARGE_AQUA_UPGRADE_ORB;
-    static {
-        if (isCATSLoaded()) {
-            LARGE_ABYSSAL_UPGRADE_ORB = ITEMS.register(
-                    "large_abyssal_upgrade_orb", () -> new UpgradeOrbItem(
-                            ItemPropertiesHelper.material()
-                                    .rarity(Rarity.UNCOMMON)
-                                    .component(ComponentRegistry.UPGRADE_ORB_TYPE, IGUpgradeOrbTypes.ADVANCED_ABYSSAL_SPELL_POWER)));
-        } else {
-            LARGE_ABYSSAL_UPGRADE_ORB = null;
-        }} static {
-        if (isDTELoaded()) {
-            LARGE_ELDRITCH_UPGRADE_ORB = ITEMS.register(
-                    "large_eldritch_upgrade_orb", () -> new UpgradeOrbItem(
-                            ItemPropertiesHelper.material()
-                                    .rarity(Rarity.UNCOMMON)
-                                    .component(ComponentRegistry.UPGRADE_ORB_TYPE, IGUpgradeOrbTypes.ADVANCED_ELDRITCH_SPELL_POWER)));
-        } else {
-            LARGE_ELDRITCH_UPGRADE_ORB = null;
-        }} static {
-        if (isAeromancyLoaded()) {
-            LARGE_WIND_UPGRADE_ORB = ITEMS.register(
-                    "large_eldritch_upgrade_orb", () -> new UpgradeOrbItem(
-                            ItemPropertiesHelper.material()
-                                    .rarity(Rarity.UNCOMMON)
-                                    .component(ComponentRegistry.UPGRADE_ORB_TYPE, IGUpgradeOrbTypes.ADVANCED_WIND_SPELL_POWER)));
-        } else {
-            LARGE_WIND_UPGRADE_ORB = null;
-        }} static {
-        if (isMFTELoaded()) {
-            LARGE_SYMMETRY_UPGRADE_ORB = ITEMS.register(
-                    "large_symmetry_upgrade_orb", () -> new UpgradeOrbItem(
-                            ItemPropertiesHelper.material()
-                                    .rarity(Rarity.UNCOMMON)
-                                    .component(ComponentRegistry.UPGRADE_ORB_TYPE, IGUpgradeOrbTypes.ADVANCED_SYMMETRY_SPELL_POWER)));
-        } else {
-            LARGE_SYMMETRY_UPGRADE_ORB = null;
-        }} static {
-        if (isTOExtrasLoaded()) {
-            LARGE_AQUA_UPGRADE_ORB = ITEMS.register(
-                    "large_aqua_upgrade_orb", () -> new UpgradeOrbItem(
-                            ItemPropertiesHelper.material()
-                                    .rarity(Rarity.UNCOMMON)
-                                    .component(ComponentRegistry.UPGRADE_ORB_TYPE, IGUpgradeOrbTypes.ADVANCED_AQUA_SPELL_POWER)));
-        } else {
-            LARGE_AQUA_UPGRADE_ORB = null;
-        }}
-        */
+
     //Illager Invasion
     public static final DeferredHolder<Item, Item> HALLOWED_STAFF;
     public static final DeferredHolder<Item, Item> INVOKER_SPELL_BOOK;
